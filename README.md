@@ -6,6 +6,7 @@ This repository contains ML projects related to coursework and mini personal pro
 
 - Sentiment analysis
 - Iris classification
+- Text summarization
 - Hatespeech classification
 
 
