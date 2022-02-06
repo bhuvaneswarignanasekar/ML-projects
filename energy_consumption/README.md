@@ -30,11 +30,11 @@ Find the optimal working days of the store with respect to the enerygy consumpti
     - This dataset can't be balanced as there is no additional information about what is optimal and not
 - Trained the model with energy and enthalpy
   
-_ relation between energy and enthalphy:
+- relation between energy and enthalphy:
 
   <div align="center">
   <a href="https://github.com/bhuvaneswarignanasekar/ML-projects">
-    <img src="energy_consumption/Images/E_E_relation.png" alt="relation">
+    <img src="Images/E_E_relation.png" alt="relation">
   </a>
   </div>
   
@@ -50,7 +50,7 @@ _ relation between energy and enthalphy:
   - 3D
   
     <div align="center">
-  <a href="https://github.com/bhuvaneswarignanasekar/ML-projects">
+  
     <img src="energy_consumption/Images/3D_E_E_D_relation.png" alt="relation">
   </a>
   </div>
@@ -58,8 +58,8 @@ _ relation between energy and enthalphy:
   - 2D
   
   <div align="center">
-  <a href="https://github.com/bhuvaneswarignanasekar/ML-projects">
-    <img src="energy_consumption/Images/2D_E_E_M_relation.png" alt="relation">
+  
+    <img src="Images/2D_E_E_M_relation.png" alt="relation">
   </a>
   </div>
   
@@ -68,8 +68,8 @@ _ relation between energy and enthalphy:
 - <h3> Result </h3>
 
   <div align="center">
-  <a href="https://github.com/bhuvaneswarignanasekar/ML-projects">
-    <img src="energy_consumption/Images/prediction/all_together.png" alt="predict">
+ 
+    <img src="Images/prediction/all_together.png" alt="predict">
   </a>
   </div>
   
@@ -85,8 +85,8 @@ _ relation between energy and enthalphy:
 - <h3>Results </h3>
 
   <div align="center">
-  <a href="https://github.com/bhuvaneswarignanasekar/ML-projects">
-    <img src="energy_consumption/Images/prediction/Scaled.png" alt="scaled">
+  
+    <img src="Images/prediction/Scaled.png" alt="scaled">
   </a>
   </div>
   
@@ -101,17 +101,17 @@ _ relation between energy and enthalphy:
 
   - Cluster for single month
   
-<div align="center">
-  <a href="https://github.com/bhuvaneswarignanasekar/ML-projects">
-    <img src="energy_consumption/Images/prediction/Single_month.png" alt="month">
+  <div align="center">
+  
+    <img src="Images/prediction/Single_month.png" alt="scaled">
   </a>
   </div>
   
   - Clustering in respective to each month
   
   <div align="center">
-  <a href="https://github.com/bhuvaneswarignanasekar/ML-projects">
-    <img src="energy_consumption/Images/prediction/per_month.png" alt="month">
+  
+    <img src="Images/prediction/per_month.png" alt="scaled">
   </a>
   </div>
   
