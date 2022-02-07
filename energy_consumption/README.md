@@ -51,7 +51,7 @@ Find the optimal working days of the store with respect to the enerygy consumpti
   
     <div align="center">
   
-    <img src="energy_consumption/Images/3D_E_E_D_relation.png" alt="relation">
+    <img src="Images/3D_E_E_D_relation.png" alt="relation">
   </a>
   </div>
   
