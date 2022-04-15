@@ -18,4 +18,10 @@
 - Text summarization
 - Hatespeech classification
 
+# Check out my other project repositories 
+
+- [weather precipitation prediction](https://github.com/bhuvaneswarignanasekar/Precipitation-prediction) is a project for predicting whether there will be a chance of precipitation on next day and day after tomorrow 
+- [titanic-Survival-prediction kaggle competition ](https://github.com/bhuvaneswarignanasekar/titanic-prediction-Kaggle)
+- [chatbot] (https://github.com/bhuvaneswarignanasekar/chatbot-Deep-learning-) I'm currently working on this project
+
 
